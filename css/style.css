@@ -95,11 +95,12 @@ section {
 /*--------------------
 2. Navigation
 --------------------*/
-
-/* .navbar-default {
-    /* background-color: white; */
-    /* border-color: transparent */
+/* 
+.navbar-default {
+    background-color: white; 
+     border-color: transparent
 } */
+
 
 .navbar-default .navbar-brand {
     /* color: white; */
@@ -207,7 +208,7 @@ section {
 
 header {
     /* background-image: url(../images/demo/bg-main.jpg); */
-    background-color: darkturquoise;
+    background-color: skyblue;
     background-repeat: none;
     /* background-attachment: scroll; */
     background-position: center center;
